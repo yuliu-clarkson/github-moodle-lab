@@ -1,3 +1,3 @@
 $hello = "Hello World";
 echo #hello;
-echo "2024 EE368";
+echo "2024 Spring EE368";
